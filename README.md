@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="./1642167163907.jpg" alt= "banner">
+
 
 <!--
 **cristiangc92/cristiangc92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
