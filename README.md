@@ -22,8 +22,6 @@
   <li><h3>JavaScript, HTML, CSS, ReactJS, ReduxJS, NodeJS, ExpressJS, PostgreSQL, Sequelize</h3></li>
 </ul>
 
-
-
 <!--
 **cristiangc92/cristiangc92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
