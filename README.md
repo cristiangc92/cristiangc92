@@ -22,6 +22,20 @@
   <li><h3>JavaScript, HTML, CSS, ReactJS, ReduxJS, NodeJS, ExpressJS, PostgreSQL, Sequelize</h3></li>
 </ul>
 
+<br>
+<h2>📌 PROYECTOS:</h2>
+<h3 align="center">Proyecto (Single Page Application) Videogame App</h3>
+<p align="center">
+  <img height="500" src="./readme.png" />
+</p>
+<p>🔹Consume datos de RAWG Video Games Database API.</p>
+<p>🔹Posee con una base de datos creada en PostgreSQL.</p>
+<p>🔹Backend desarrollado con NodeJS utilizando Express.</p>
+<p>🔹Frontend realizado con ReactJS & Redux, ademas CSS puro.</p>
+<p>🔹Cuenta con funcionalidades de ordenamiento por nombre y rating, filtro por genero y origen (API o DB) y busqueda por nombre.</p>
+<p>🔹Detalle y formulario de creacion de un videojuego.</p>
+
+
 <!--
 **cristiangc92/cristiangc92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
