@@ -35,6 +35,20 @@
 <p>🔹Cuenta con funcionalidades de ordenamiento por nombre y rating, filtro por genero y origen (API o DB) y busqueda por nombre.</p>
 <p>🔹Detalle y formulario de creacion de un videojuego.</p>
 
+<br>
+<h3 align="center">Proyecto E-Commerce MODE PARFUM</h3>
+<p align="center">
+  <img height="500" src="./readme.png" />
+</p>
+<p>🔹Proyecto grupal - 8 personas.</p>
+<p>🔹Maquetacion, creacion y diseño de una tienda de perfumeria.</p>
+<p>🔹uncionalidades de filtrado por genero y marca, ordenamiento por precio y busqueda por nombre.</p>
+<p>🔹Detalle individual de un producto.</p>
+<p>🔹Favoritos, carrito de compras y sistema de loguin.</p>
+<p>🔹Pasarela de pagos con MercadoPago Checkout Pro.</p>
+<p>🔹Emails automaticos con Nodemailer (Registro, compra y resetaer contraseña).</p>
+<p>🔹Panel administrador y funcionalidad de agregar producto.</p>
+<b>🔹Link del proyecto: https://mode-parfum.vercel.app/ </b>
 
 <!--
 **cristiangc92/cristiangc92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
