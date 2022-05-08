@@ -38,7 +38,7 @@
 <br>
 <h3 align="center">Proyecto E-Commerce MODE PARFUM</h3>
 <p align="center">
-  <img height="500" src="./readme.png" />
+  <img height="500" src="./modeparfum.png" />
 </p>
 <p>🔹Proyecto grupal - 8 personas.</p>
 <p>🔹Maquetacion, creacion y diseño de una tienda de perfumeria.</p>
