@@ -40,7 +40,7 @@
 <p>🔹Frontend realizado con ReactJS & Redux, ademas CSS Modules.</p>
 <p>🔹Cuenta con funcionalidades de ordenamiento por nombre y poblacion, filtro por continente y actividad y busqueda por nombre.</p>
 <p>🔹Detalle y formulario de creacion de una actividad.</p>
-
+<b>🔹Link del proyecto: https://proyecto-countries.vercel.app/ </b>
 
 <br>
 <h3 align="center">Proyecto E-Commerce MODE PARFUM</h3>
