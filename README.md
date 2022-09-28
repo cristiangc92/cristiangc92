@@ -17,13 +17,32 @@
 ¡ Contáctame y hablemos !</p>
 
 <br>
-<h2>🧰 HABILIDADES:</h2>
+<h2>🧰 HABILIDADES TECNICAS:</h2>
 <ul>
   <li><h3>JavaScript, HTML, CSS, ReactJS, ReduxJS, NodeJS, ExpressJS, PostgreSQL, Sequelize</h3></li>
 </ul>
 
 <br>
+<h2>👨‍ HABILIDADES BLANDAS:</h2>
+<ul>
+  <li><h3>Sociable. Trabajo en equipo. Facilidad de adaptación. Personalidad amigable. Buena comunicación. Pensamiento critico. Buena Organización. Habilidades interpersonales. Puntualidad.</h3></li>
+</ul>
+
+<br>
 <h2>📌 PROYECTOS:</h2>
+<h3 align="center">Proyecto (Single Page Application) Countries App</h3>
+<p align="center">
+  <img height="500" src="./countries.png" />
+</p>
+<p>🔹Consume datos de restcountries API.</p>
+<p>🔹Posee con base de datos creada en PostgreSQL.</p>
+<p>🔹Backend desarrollado con NodeJS utilizando Express.</p>
+<p>🔹Frontend realizado con ReactJS & Redux, ademas CSS Modules.</p>
+<p>🔹Cuenta con funcionalidades de ordenamiento por nombre y poblacion, filtro por continente y actividad y busqueda por nombre.</p>
+<p>🔹Detalle y formulario de creacion de una actividad.</p>
+
+
+<br>
 <h3 align="center">Proyecto E-Commerce MODE PARFUM</h3>
 <p align="center">
   <img height="500" src="./modeparfum.png" />
