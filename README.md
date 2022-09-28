@@ -38,7 +38,7 @@
 <p>🔹Posee con base de datos creada en PostgreSQL.</p>
 <p>🔹Backend desarrollado con NodeJS utilizando Express.</p>
 <p>🔹Frontend realizado con ReactJS & Redux, ademas CSS Modules.</p>
-<p>🔹Cuenta con funcionalidades de ordenamiento por nombre y poblacion, filtro por continente y actividad y busqueda por nombre.</p>
+<p>🔹Ordenamiento por nombre y poblacion, filtro por continente y actividad y busqueda por nombre.</p>
 <p>🔹Detalle y formulario de creacion de una actividad.</p>
 <b>🔹Link del proyecto: https://proyecto-countries.vercel.app/ </b>
 
@@ -49,7 +49,7 @@
 </p>
 <p>🔹Proyecto grupal - 8 personas.</p>
 <p>🔹Maquetacion, creacion y diseño de una tienda de perfumeria.</p>
-<p>🔹uncionalidades de filtrado por genero y marca, ordenamiento por precio y busqueda por nombre.</p>
+<p>🔹Funcionalidades de filtrado por genero y marca, ordenamiento por precio y busqueda por nombre.</p>
 <p>🔹Detalle individual de un producto.</p>
 <p>🔹Favoritos, carrito de compras y sistema de loguin.</p>
 <p>🔹Pasarela de pagos con MercadoPago Checkout Pro.</p>
@@ -66,7 +66,7 @@
 <p>🔹Posee con una base de datos creada en PostgreSQL.</p>
 <p>🔹Backend desarrollado con NodeJS utilizando Express.</p>
 <p>🔹Frontend realizado con ReactJS & Redux, ademas CSS puro.</p>
-<p>🔹Cuenta con funcionalidades de ordenamiento por nombre y rating, filtro por genero y origen (API o DB) y busqueda por nombre.</p>
+<p>🔹Ordenamiento por nombre y rating, filtro por genero y origen (API o DB) y busqueda por nombre.</p>
 <p>🔹Detalle y formulario de creacion de un videojuego.</p>
 
 <br>
