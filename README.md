@@ -68,6 +68,7 @@
 <p>🔹Frontend realizado con ReactJS & Redux, ademas CSS puro.</p>
 <p>🔹Ordenamiento por nombre y rating, filtro por genero y origen (API o DB) y busqueda por nombre.</p>
 <p>🔹Detalle y formulario de creacion de un videojuego.</p>
+<b>🔹Link del proyecto: https://videogames-app-phi.vercel.app/ </b>
 
 <br>
 
