@@ -27,7 +27,7 @@
 <ul>
   <li><h3>Sociable. Trabajo en equipo. Facilidad de adaptación. Personalidad amigable. Buena comunicación. Pensamiento critico. Buena Organización. Habilidades interpersonales. Puntualidad.</h3></li>
 </ul>
-
+<!--
 <br>
 <h2>📌 PROYECTOS:</h2>
 <h3 align="center">Proyecto (Single Page Application) Countries App</h3>
@@ -72,7 +72,7 @@
 
 <br>
 
-<!--
+
 **cristiangc92/cristiangc92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
