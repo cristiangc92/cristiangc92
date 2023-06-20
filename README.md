@@ -19,7 +19,7 @@
 <br>
 <h2>🧰 HABILIDADES TECNICAS:</h2>
 <ul>
-  <li><h3>JavaScript, HTML, CSS, ReactJS, ReduxJS, NodeJS, ExpressJS, PostgreSQL, Sequelize, Git, Github, MongoDB, Mongoose</h3></li>
+  <li><h3>JavaScript, HTML, CSS, React, Redux, Bootstrap, NodeJS, Express, PostgreSQL, Sequelize, Git, Github, MongoDB, Mongoose</h3></li>
 </ul>
 
 <br>
