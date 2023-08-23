@@ -2,8 +2,7 @@
 <h1 align="center">Hola! 👋 Mi nombre es Cristian Gabriel Cacciolatti y soy:</h1>
 
 
-<img src="./Portada Linkedin STUDENTS-1.png
-" alt= "banner">
+<img src="./PortadaHenry.png" alt= "banner">
 
 
 <h2 align="center">👩‍💻 Desarrollador Web Full Stack formado en la academia HENRY.</h2>
