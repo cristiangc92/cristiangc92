@@ -1,88 +1,70 @@
+# 👋 Hola, soy Cristian Gabriel Cacciolatti
 
-<h1 align="center">Hola! 👋 Mi nombre es Cristian Gabriel Cacciolatti y soy:</h1>
+**Desarrollador Web Full Stack**  
+Frontend con React · Backend con Node.js · PostgreSQL  
+Enfoque en buenas prácticas, claridad y experiencia de usuario.
 
+---
 
-<img src="./PortadaHenry.png" alt= "banner">
+## 🚀 Sobre mí
 
+Soy Desarrollador Web Full Stack, con foco actual en **frontend**, y experiencia construyendo aplicaciones web desde cero.  
+Trabajo con **React, JavaScript, HTML, CSS y Bootstrap**, integrando backend con **Node.js, Express y PostgreSQL** cuando el proyecto lo requiere.
 
-<h2 align="center">👩‍💻 Desarrollador Web Full Stack formado en la academia HENRY.</h2>
+Además, cuento con experiencia en el ámbito educativo como **tutor de desarrollo web**, lo que fortaleció mi capacidad de comunicación, análisis de código y feedback técnico.
 
-<p align="center">👶🖥️ Desde pequeño pude interactuar con una PC domestica en los tiempos donde no era algo comun. Esto me permitio poder experimientar, año tras año, el amplio mundo de posibilidades que brinda la informatica para las personas como por ejemplo educativas, telecomunicacionales, laborales, ocio, entre otras.</p>
+Actualmente me encuentro en búsqueda de **oportunidades remotas** como desarrollador frontend o full stack junior / semi-senior.
 
-<p align="center">🎓 Fue asi que mis primeros pasos academicos los realice en la Universidad Nacional de Santiago del Estero, al anotarme en la carrera de Programador Universitario en Informatica.</p>
+---
 
-<p align="center">🤩💻 Amo la programación y las computadoras. Soy una persona activa con buena disposición a lo social, me adapto rapido a un nuevo equipo de trabajo y me considero un autodidacta, lo que no entiendo o desconozco, lo investigo, no puedo quedarme con la duda. Ademas soy muy insisitente a la hora de realizar pruebas para detectar errores. </p>
+## 🧩 Proyectos destacados
 
-<p align="center">👔 Estoy emocionado y entusiasmado de empezar esta nueva etapa de mi vida en el mundo IT. Si tienes un proyecto, anímate a invitarme, voy a ser un excelente capital humano para tu empresa!
-¡ Contáctame y hablemos !</p>
+### 🔹 NovaWeb
+Landing page institucional desarrollada desde cero, simulando un proyecto real para cliente.
 
-<br>
-<h2>🧰 HABILIDADES TECNICAS:</h2>
-<ul>
-  <li><h3>JavaScript, HTML, CSS, React, Redux, Bootstrap, NodeJS, Express, PostgreSQL, Sequelize, Git, Github, MongoDB, Mongoose</h3></li>
-</ul>
+- Arquitectura basada en componentes
+- Diseño responsive con Bootstrap
+- Buenas prácticas de HTML semántico y React
+- Deploy en Vercel
 
-<br>
-<h2>👨‍ HABILIDADES BLANDAS:</h2>
-<ul>
-  <li><h3>Sociable. Trabajo en equipo. Facilidad de adaptación. Personalidad amigable. Buena comunicación. Pensamiento critico. Buena Organización. Habilidades interpersonales. Puntualidad.</h3></li>
-</ul>
-<!--
-<br>
-<h2>📌 PROYECTOS:</h2>
-<h3 align="center">Proyecto (Single Page Application) Countries App</h3>
-<p align="center">
-  <img height="500" src="./countries.png" />
-</p>
-<p>🔹Consume datos de restcountries API.</p>
-<p>🔹Posee con base de datos creada en PostgreSQL.</p>
-<p>🔹Backend desarrollado con NodeJS utilizando Express.</p>
-<p>🔹Frontend realizado con ReactJS & Redux, ademas CSS Modules.</p>
-<p>🔹Ordenamiento por nombre y poblacion, filtro por continente y actividad y busqueda por nombre.</p>
-<p>🔹Detalle y formulario de creacion de una actividad.</p>
-<b>🔹Link del proyecto: https://proyecto-countries.vercel.app/ </b>
+🔗 Demo: [VER DEMO](https://landing-institucional.vercel.app/)  
+💻 Código: https://github.com/cristiangc92/novaweb
 
-<br>
-<h3 align="center">Proyecto E-Commerce MODE PARFUM</h3>
-<p align="center">
-  <img height="500" src="./modeparfum.png" />
-</p>
-<p>🔹Proyecto grupal - 8 personas.</p>
-<p>🔹Maquetacion, creacion y diseño de una tienda de perfumeria.</p>
-<p>🔹Funcionalidades de filtrado por genero y marca, ordenamiento por precio y busqueda por nombre.</p>
-<p>🔹Detalle individual de un producto.</p>
-<p>🔹Favoritos, carrito de compras y sistema de loguin.</p>
-<p>🔹Pasarela de pagos con MercadoPago Checkout Pro.</p>
-<p>🔹Emails automaticos con Nodemailer (Registro, compra y resetaer contraseña).</p>
-<p>🔹Panel administrador y funcionalidad de agregar producto.</p>
-<b>🔹Link del proyecto: https://mode-parfum.vercel.app/ </b>
+---
 
-<br>
-<h3 align="center">Proyecto (Single Page Application) Videogame App</h3>
-<p align="center">
-  <img height="500" src="./readme.png" />
-</p>
-<p>🔹Consume datos de RAWG Video Games Database API.</p>
-<p>🔹Posee con una base de datos creada en PostgreSQL.</p>
-<p>🔹Backend desarrollado con NodeJS utilizando Express.</p>
-<p>🔹Frontend realizado con ReactJS & Redux, ademas CSS puro.</p>
-<p>🔹Ordenamiento por nombre y rating, filtro por genero y origen (API o DB) y busqueda por nombre.</p>
-<p>🔹Detalle y formulario de creacion de un videojuego.</p>
-<b>🔹Link del proyecto: https://videogames-app-phi.vercel.app/ </b>
+## 🛠 Tecnologías
 
-<br>
+**Frontend**
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
 
+**Backend**
+- Node.js
+- Express
+- PostgreSQL
 
-**cristiangc92/cristiangc92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Herramientas**
+- Git
+- GitHub
+- Vercel
+- Render
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Portfolio
+
+🔗 https://portfolio-cristian-cacciolatti.vercel.app/
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: cristiangc92@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/cristiancacciolatti/
+
+---
+
+⭐ Siempre abierto a aprender, colaborar y mejorar a través del código.
