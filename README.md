@@ -45,7 +45,7 @@ App completa con autenticación JWT, CRUD de tareas con filtros por estado y pri
 
 `React` `Vite` `Node.js` `Express` `PostgreSQL` `JWT` `Railway` `Neon` `Vercel`
 
-→ [Demo](https://task-manager-client-ashy.vercel.app) · [Frontend](https://github.com/tu-usuario/task-manager-client) · [Backend](https://github.com/tu-usuario/task-manager-api)
+→ [Demo](https://task-manager-client-ashy.vercel.app) · [Frontend](https://github.com/cristiangc92/task-manager-client) · [Backend](https://github.com/cristiangc92/task-manager-api)
 
 ---
 
