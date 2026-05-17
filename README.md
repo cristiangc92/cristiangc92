@@ -19,6 +19,8 @@ Busco rol remoto como desarrollador web.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-8B5CF6?style=flat&logo=react&logoColor=white)
 
 **Backend**
 
@@ -46,6 +48,14 @@ App completa con autenticación JWT, CRUD de tareas con filtros por estado y pri
 `React` `Vite` `Node.js` `Express` `PostgreSQL` `JWT` `Railway` `Neon` `Vercel`
 
 → [Demo](https://task-manager-client-ashy.vercel.app) · [Frontend](https://github.com/cristiangc92/task-manager-client) · [Backend](https://github.com/cristiangc92/task-manager-api)
+
+### 📊 GitHub Dashboard — Visualizador de estadísticas
+
+Dashboard que consume la API pública de GitHub y muestra estadísticas de cualquier usuario: lenguajes más usados, actividad por año y repositorios destacados.
+
+`React` `Vite` `Tailwind CSS` `Recharts` `GitHub API` `Vercel`
+
+→ [Demo](https://github-dashboard-three-phi.vercel.app) · [Repositorio](https://github.com/cristiangc92/github-dashboard)
 
 ---
 
