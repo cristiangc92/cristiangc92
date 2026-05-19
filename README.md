@@ -36,18 +36,19 @@ Busco rol remoto como desarrollador web.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=flat&logo=neon&logoColor=black)
+![MercadoPago](https://img.shields.io/badge/MercadoPago-009EE3?style=flat&logo=mercadopago&logoColor=white)
 
 ---
 
 ## Proyectos destacados
 
-### 🗂 Task Manager — Gestión de tareas full stack
+### 🛒 TechStore — E-commerce con MercadoPago
 
-App completa con autenticación JWT, CRUD de tareas con filtros por estado y prioridad, y deploy en producción.
+E-commerce full stack con catálogo de productos, carrito de compras e integración de pagos con MercadoPago Checkout Pro.
 
-`React` `Vite` `Node.js` `Express` `PostgreSQL` `JWT` `Railway` `Neon` `Vercel`
+`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MercadoPago` `Railway` `Vercel`
 
-→ [Demo](https://task-manager-client-ashy.vercel.app) · [Frontend](https://github.com/cristiangc92/task-manager-client) · [Backend](https://github.com/cristiangc92/task-manager-api)
+→ [Demo](https://techstore-client.vercel.app) · [Frontend](https://github.com/cristiangc92/techstore-client) · [Backend](https://github.com/cristiangc92/techstore-api)
 
 ### 📊 GitHub Dashboard — Visualizador de estadísticas
 
@@ -56,6 +57,14 @@ Dashboard que consume la API pública de GitHub y muestra estadísticas de cualq
 `React` `Vite` `Tailwind CSS` `Recharts` `GitHub API` `Vercel`
 
 → [Demo](https://github-dashboard-three-phi.vercel.app) · [Repositorio](https://github.com/cristiangc92/github-dashboard)
+
+### 🗂 Task Manager — Gestión de tareas full stack
+
+App completa con autenticación JWT, CRUD de tareas con filtros por estado y prioridad, y deploy en producción.
+
+`React` `Vite` `Node.js` `Express` `PostgreSQL` `JWT` `Railway` `Neon` `Vercel`
+
+→ [Demo](https://task-manager-client-ashy.vercel.app) · [Frontend](https://github.com/cristiangc92/task-manager-client) · [Backend](https://github.com/cristiangc92/task-manager-api)
 
 ---
 
